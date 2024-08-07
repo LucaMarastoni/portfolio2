@@ -16,8 +16,6 @@ body {
     height: 300px;
 }
 
-
-
 .icon {
     position: absolute;
     top: 50%;
@@ -72,7 +70,7 @@ body {
 }
 
 .show .work-item:nth-child(1) {
-    transform: translate(-50%, -50%) rotate(0deg) translate(120px) rotate(0deg);
+    transform: translate(-50%, -50%) rotate(0deg) translate(120px) rotate(-0deg);
 }
 
 .show .work-item:nth-child(2) {
